@@ -2,10 +2,16 @@
 This repo contains written code for Stable Diffusion v1.5. This is for education purpose where one can dive into the details of the Stable Diffusion v1.5 architecture.
 
 ## SD v1.5 Main Architecture
+![Alt text](SD_image/1.png)
+
 
 ### Residual Block
+![Alt text](SD_image/2.png)
+
 
 ### Attention Block
+![Alt text](SD_image/3.png)
+
 
 ## References
 1. https://www.youtube.com/watch?v=ZBKpAp_6TGI&t=2860s
